@@ -1,5 +1,5 @@
 # Aligning language models.
-Attempted solutions to Jacob Hilton's [deep learning curriculum](https://github.com/jacobhilton/deep_learning_curriculum)
+Attempted solutions to Jacob Hilton's [deep learning curriculum](https://github.com/jacobhilton/deep_learning_curriculum).
 
 
 
