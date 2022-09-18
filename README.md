@@ -1,5 +1,6 @@
-# dl_curriculum
-Attempted solutions to Jacob Hilton's curriculum on aligning language models.
+# Aligning language models.
+Attempted solutioon's to Jacob Hilton's (deep learning curriculum)[https://github.com/jacobhilton/deep_learning_curriculum]
+
 
 <img src="contemplating.png" alt="contemplating" width="300"/>
 
